@@ -1,0 +1,5 @@
+Appointment 1: Booked
+Appointment 2: Available
+Appointment 3: Available
+Appointment 4: Available
+Appointment 5: Available
